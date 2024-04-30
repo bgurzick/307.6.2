@@ -1,0 +1,40 @@
+CONCEPT
+a website for enrolling prospective private market first-time astronauts
+
+
+
+ADMIN SIDE
+    theme = light
+    include
+        side nav bar (borrow from example)
+        admin user icon & username
+        4 to 6 cards for progress/data monitoring
+            how many applied - 80,000
+            how many qualified - 4
+            how many rejected - 79,996
+            application fee revenue - $4,000,000
+            Research & Development Costs
+                domain name - $25
+                web hosting - $125
+                research - $0
+                development - $0
+                reusable rocket production - $0
+        site traffic
+            unique visitors - 200,000
+            other?
+
+
+
+USER SIDE
+    theme = dark
+    include
+        a nav bar
+        an image
+        a description of requirements
+        an enrollment form via carousel
+        a progress bar (or simple indication like '1 of 6')
+
+
+
+
+
