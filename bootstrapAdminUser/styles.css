@@ -11,7 +11,17 @@
     padding-bottom:50px;
 }
 
-#float {
-    position:relative;
-    float: right;
+
+.container-fluid {
+    width: 18rem;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    padding-bottom:30px;
+}
+
+.card{
+    width:18rem;
+    align-items:center;
+    text-align:center;
 }
